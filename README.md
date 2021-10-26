@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/vicious_bug" target="blank"><img src="https://img.shields.io/twitter/follow/vicious_bug?logo=twitter&style=for-the-badge" alt="vicious_bug" /></a> </p>
 
-- 🌱 I’m currently learning about **Kubernetes Istio and Python**
+- 🌱 I’m currently learning about **Kubernetes Istio Terraform and Python**
 
 - 💬 Ask me about **Kubernetes, Python, Monitoring, Cloud Infrastructure, DevOps, CI/CD**
 
